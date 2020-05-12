@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".item">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <LinearLayout
+            android:background="#2D2F31"
+            android:layout_weight="2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="750dp"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="185dp"
+                    android:layout_height="195dp"
+                    android:background="@drawable/border3"
+                    android:orientation="vertical"
+                    android:src="@drawable/border2">
+
+                    <ImageView
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_width="170dp"
+                        android:layout_height="130dp"
+                        android:background="@drawable/keris"></ImageView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Keris Jawa"
+                        android:textStyle="bold"
+                        android:textColor="#fff"></TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Rp.150.000,00"
+                        android:textColor="#fff"
+                        android:textSize="11sp"></TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="130dp"
+                        android:text="100 terjual"
+                        android:textColor="#fff"
+                        android:textSize="10sp"></TextView>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:onClick="spek"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="185dp"
+                    android:layout_height="195dp"
+                    android:background="@drawable/border3"
+                    android:orientation="vertical"
+                    android:src="@drawable/border2">
+
+                    <ImageView
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_width="170dp"
+                        android:layout_height="130dp"
+                        android:background="@drawable/barongan"></ImageView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Barongan"
+                        android:textStyle="bold"
+                        android:textColor="#fff"></TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Rp.150.000,00"
+                        android:textColor="#fff"
+                        android:textSize="11sp"></TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="130dp"
+                        android:text="100 terjual"
+                        android:textColor="#fff"
+                        android:textSize="10sp"></TextView>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_marginTop="5dp"
+                    android:id="@+id/ngaleh"
+                    android:layout_width="185dp"
+                    android:layout_height="195dp"
+                    android:background="@drawable/border3"
+                    android:orientation="vertical"
+                    android:src="@drawable/border2">
+
+                    <ImageView
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_width="170dp"
+                        android:layout_height="130dp"
+                        android:background="@drawable/keris"></ImageView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Keris Jawa"
+                        android:textStyle="bold"
+                        android:textColor="#fff"></TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Rp.150.000,00"
+                        android:textColor="#fff"
+                        android:textSize="11sp"></TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="130dp"
+                        android:text="100 terjual"
+                        android:textColor="#fff"
+                        android:textSize="10sp"></TextView>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:background="@drawable/border3"
+                    android:layout_width="185dp"
+                    android:layout_height="195dp">
+
+                    <ImageView
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_width="170dp"
+                        android:layout_height="130dp"
+                        android:background="@drawable/wayang"></ImageView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Wayang golek"
+                        android:textStyle="bold"
+                        android:textColor="#fff"></TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Rp.150.000,00"
+                        android:textColor="#fff"
+                        android:textSize="11sp"></TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="130dp"
+                        android:text="100 terjual"
+                        android:textColor="#fff"
+                        android:textSize="10sp"></TextView>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_marginTop="5dp"
+                    android:orientation="vertical"
+                    android:background="@drawable/border3"
+                    android:layout_width="185dp"
+                    android:layout_height="195dp">
+
+                    <ImageView
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_width="170dp"
+                        android:layout_height="130dp"
+                        android:background="@drawable/mandau"></ImageView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Mandau Terbang"
+                        android:textStyle="bold"
+                        android:textColor="#fff"></TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Rp.150.000,00"
+                        android:textColor="#fff"
+                        android:textSize="11sp"></TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="130dp"
+                        android:text="100 terjual"
+                        android:textColor="#fff"
+                        android:textSize="10sp"></TextView>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TUBES</string>
+
+    <string name="paragraph">
+        Seni Barong merupakan salah satu kesenian rakyat yang amat populer
+        dikalangan masyarakat Blora, terutama masyarakat pedesaan.
+        Didalam seni Barong tercermin sifat-sifat kerakyatan masyarakat Blora,
+        seperti sifat : spontanitas, kekeluargaan, kesederhanaan, kasar, keras, kompak,
+        dan keberanian yang dilandasi kebenaran.
+    </string>
+
+    <string name="alamat">
+        alfin yusriansyah | (+62)81337788784
+        Banyuwangi, Genteng, Setail, Jalen
+        Jl.idris Rt02/Rw05, 6453
+    </string>
+
+    <string name="virtual">
+        1.Pilih menu Transaksi Lain, kemudian pilih menu Pembayaran.
+        2.Setelah itu klik Menu Lainnya, lalu pilih menu Briva.
+        3.Masukkan nomor rekening dengan nomor Virtual Account Anda (contoh: 7810202001539202) dan pilih Benar.
+        4.Ketika muncul konfirmasi pembayaran, silahkan pilih Ya.
+        5.Voila!
+    </string>
+</resources>
