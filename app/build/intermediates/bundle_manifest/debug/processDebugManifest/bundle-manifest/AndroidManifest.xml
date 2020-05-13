@@ -16,8 +16,15 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.AppCompat.NoActionBar" >
+        <activity android:name="com.example.tubes.sukses_upload_item" />
+        <activity android:name="com.example.tubes.jual_item" />
+        <activity android:name="com.example.tubes.pengrajin" />
+        <activity android:name="com.example.tubes.pencarianItem" />
+        <activity android:name="com.example.tubes.chatting" />
+        <activity android:name="com.example.tubes.kodeBayar" />
+        <activity android:name="com.example.tubes.checkout" />
+        <activity android:name="com.example.tubes.keranjang" />
         <activity android:name="com.example.tubes.spesifikasi_item" />
         <activity android:name="com.example.tubes.item" />
         <activity android:name="com.example.tubes.menu" />

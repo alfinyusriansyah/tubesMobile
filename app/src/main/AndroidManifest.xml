@@ -9,7 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".spesifikasi_item"></activity>
+        <activity android:name=".sukses_upload_item"></activity>
+        <activity android:name=".jual_item" />
+        <activity android:name=".pengrajin" />
+        <activity android:name=".pencarianItem" />
+        <activity android:name=".chatting" />
+        <activity android:name=".kodeBayar" />
+        <activity android:name=".checkout" />
+        <activity android:name=".keranjang" />
+        <activity android:name=".spesifikasi_item" />
         <activity android:name=".item" />
         <activity android:name=".menu" />
         <activity android:name=".forgotEmail" />

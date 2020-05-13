@@ -19,4 +19,16 @@ public class menu extends AppCompatActivity {
         Intent intent = new Intent(menu.this, item.class);
         startActivity(intent);
     }
+
+    public void tukang (View view){
+
+        Intent intent = new Intent(menu.this, pengrajin.class);
+        startActivity(intent);
+    }
+
+    public void jual (View view){
+
+        Intent intent = new Intent(menu.this, jual_item.class);
+        startActivity(intent);
+    }
 }

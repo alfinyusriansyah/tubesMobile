@@ -114,6 +114,7 @@
                 </TextView>
 
                 <TextView
+                    android:layout_marginTop="4dp"
                     android:background="@drawable/border4"
                     android:paddingLeft="10sp"
                     android:layout_width="wrap_content"
@@ -127,6 +128,7 @@
                     android:layout_height="match_parent">
 
                     <LinearLayout
+                        android:onClick="chat"
                         android:layout_marginTop="10dp"
                         android:layout_marginLeft="30dp"
                         android:background="@drawable/ic_chat_black_24dp"
@@ -141,10 +143,10 @@
                         android:layout_height="40dp"></LinearLayout>
 
                     <TextView
-
+                        android:onClick="keran"
                         android:background="@drawable/border"
                         android:paddingTop="2dp"
-                        android:paddingLeft="24dp"
+                        android:paddingLeft="20dp"
                         android:layout_marginTop="8dp"
                         android:layout_marginLeft="89dp"
                         android:layout_width="100dp"
