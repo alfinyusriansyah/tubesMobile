@@ -14,7 +14,6 @@
         <activity android:name=".pengrajin" />
         <activity android:name=".pencarianItem" />
         <activity android:name=".chatting" />
-        <activity android:name=".kodeBayar" />
         <activity android:name=".checkout" />
         <activity android:name=".keranjang" />
         <activity android:name=".spesifikasi_item" />

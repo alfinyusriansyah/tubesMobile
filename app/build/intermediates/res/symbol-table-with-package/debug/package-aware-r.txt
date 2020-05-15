@@ -1070,6 +1070,7 @@ layout activity_pengrajin
 layout activity_reset_pass
 layout activity_singup
 layout activity_spesifikasi_item
+layout activity_sukses_upload_item
 layout custom_dialog
 layout forgot_email
 layout notification_action

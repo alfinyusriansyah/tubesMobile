@@ -6,89 +6,90 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml
+8-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml
+9-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:5:5-35:19
+11-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:5:5-35:19
 12        android:allowBackup="true"
-12-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:6:9-35
+12-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.1.0] /home/alfin/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.1.0] /home/anoma/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:7:9-43
+15-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:8:9-41
+16-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:9:9-54
+17-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:10:9-35
-19        android:theme="@style/Theme.AppCompat.NoActionBar" >
-19-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:11:9-59
-20        <activity android:name="com.example.tubes.sukses_upload_item" />
-20-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:12:9-65
-20-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:12:19-53
-21        <activity android:name="com.example.tubes.jual_item" />
-21-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:13:9-47
-21-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:13:19-44
-22        <activity android:name="com.example.tubes.pengrajin" />
-22-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:14:9-47
-22-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:14:19-44
-23        <activity android:name="com.example.tubes.pencarianItem" />
-23-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:15:9-51
-23-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:15:19-48
-24        <activity android:name="com.example.tubes.chatting" />
-24-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:16:9-46
-24-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:16:19-43
-25        <activity android:name="com.example.tubes.kodeBayar" />
-25-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:17:9-47
-25-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:17:19-44
-26        <activity android:name="com.example.tubes.checkout" />
-26-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:18:9-46
-26-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:18:19-43
-27        <activity android:name="com.example.tubes.keranjang" />
-27-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:19:9-47
-27-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:19:19-44
-28        <activity android:name="com.example.tubes.spesifikasi_item" />
-28-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:20:9-54
-28-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:20:19-51
-29        <activity android:name="com.example.tubes.item" />
-29-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:21:9-42
-29-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:21:19-39
-30        <activity android:name="com.example.tubes.menu" />
-30-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:22:9-42
-30-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:22:19-39
-31        <activity android:name="com.example.tubes.forgotEmail" />
-31-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:23:9-49
-31-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:23:19-46
-32        <activity android:name="com.example.tubes.resetPass" />
-32-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:24:9-47
-32-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:24:19-44
-33        <activity android:name="com.example.tubes.singup" />
-33-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:25:9-44
-33-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:25:19-41
-34        <activity android:name="com.example.tubes.hal1" />
-34-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:26:9-42
-34-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:26:19-39
-35        <activity android:name="com.example.tubes.login" />
-35-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:27:9-43
-35-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:27:19-40
-36        <activity android:name="com.example.tubes.MainActivity" >
-36-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:28:9-34:20
-36-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:28:19-47
-37            <intent-filter>
-37-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:29:13-33:29
-38                <action android:name="android.intent.action.MAIN" />
-38-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:30:17-69
-38-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:30:25-66
-39
-40                <category android:name="android.intent.category.LAUNCHER" />
-40-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:32:17-77
-40-->/home/alfin/Documents/PEM.WEB/MyApplication23-master/TUBES2/app/src/main/AndroidManifest.xml:32:27-74
-41            </intent-filter>
-42        </activity>
-43    </application>
-44
-45</manifest>
+18-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.AppCompat.NoActionBar" >
+20-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:11:9-59
+21        <activity android:name="com.example.tubes.sukses_upload_item" />
+21-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:12:9-65
+21-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:12:19-53
+22        <activity android:name="com.example.tubes.jual_item" />
+22-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:13:9-47
+22-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:13:19-44
+23        <activity android:name="com.example.tubes.pengrajin" />
+23-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:14:9-47
+23-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:14:19-44
+24        <activity android:name="com.example.tubes.pencarianItem" />
+24-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:15:9-51
+24-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:15:19-48
+25        <activity android:name="com.example.tubes.chatting" />
+25-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:16:9-46
+25-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:16:19-43
+26        <activity android:name="com.example.tubes.kodeBayar" />
+26-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:17:9-47
+26-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:17:19-44
+27        <activity android:name="com.example.tubes.checkout" />
+27-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:18:9-46
+27-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:18:19-43
+28        <activity android:name="com.example.tubes.keranjang" />
+28-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:19:9-47
+28-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:19:19-44
+29        <activity android:name="com.example.tubes.spesifikasi_item" />
+29-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:20:9-54
+29-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:20:19-51
+30        <activity android:name="com.example.tubes.item" />
+30-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:21:9-42
+30-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:21:19-39
+31        <activity android:name="com.example.tubes.menu" />
+31-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:22:9-42
+31-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:22:19-39
+32        <activity android:name="com.example.tubes.forgotEmail" />
+32-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:23:9-49
+32-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:23:19-46
+33        <activity android:name="com.example.tubes.resetPass" />
+33-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:24:9-47
+33-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:24:19-44
+34        <activity android:name="com.example.tubes.singup" />
+34-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:25:9-44
+34-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:25:19-41
+35        <activity android:name="com.example.tubes.hal1" />
+35-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:26:9-42
+35-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:26:19-39
+36        <activity android:name="com.example.tubes.login" />
+36-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:27:9-43
+36-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:27:19-40
+37        <activity android:name="com.example.tubes.MainActivity" >
+37-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:28:9-34:20
+37-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:28:19-47
+38            <intent-filter>
+38-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:29:13-33:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:30:17-69
+39-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:30:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:32:17-77
+41-->/home/anoma/Documents/tubesMobile/app/src/main/AndroidManifest.xml:32:27-74
+42            </intent-filter>
+43        </activity>
+44    </application>
+45
+46</manifest>
